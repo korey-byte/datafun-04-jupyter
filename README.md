@@ -28,7 +28,7 @@ git commit -m "initial commit"
         git commit -m "Your commit message"
 
 # Git Push
-git push -u origin main
+git push origin main
 
 #       Subsequent Pushes
         git push
